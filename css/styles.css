@@ -1,0 +1,51 @@
+
+.mainbody{
+    text-align: center;
+    background-color: rgb(22, 22, 22);
+}
+
+
+.bottom-page{
+    
+    position: relative;
+    top: 750px;
+    
+}
+
+.firstline{
+  width: 500px;
+}
+
+.secondline{
+    width: 500px;
+  }
+
+.skulltitle{
+    color: rgb(230, 230, 230);
+    font-family: 'Teko', sans-serif;
+}  
+
+.copyright_title{
+    color: rgb(230, 230, 230);
+}
+
+.productivity_para{
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.second_body{
+    
+    background-color: rgb(43, 42, 42);
+}
+
+.pro{
+    color: aliceblue;
+}
+
+.paraa{
+    color: aliceblue;
+}
+
+.pri{
+    color: aliceblue;
+}
